@@ -15,7 +15,7 @@
 - 🤝 Interested in open source contribution and growing a professional GitHub presence
 - 📍 Based in Pakistan
 - 📫 Reach me at **saqibjutt4544@gmail.com**
-- 💼 Connect on [LinkedIn](www.linkedin.com/in/saqib-latif-aziz-cs)
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/saqib-latif-aziz-cs)
 
 ---
 
