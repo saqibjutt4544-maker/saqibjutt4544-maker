@@ -8,14 +8,14 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science / IT student — *[Your University Name Here]*
+- 🎓 Computer Science student — *University of Agriculture*
 - 🌱 Currently interning on applied ML/NLP projects: LLM prompting, fine-tuning, and RAG pipelines
 - 🔭 Working on real-world systems: support ticket classification, RAG chatbots, retail intelligence, price prediction
 - 🧠 Comfortable across the ML stack — from classical regression to transformer fine-tuning to LLM-powered apps
 - 🤝 Interested in open source contribution and growing a professional GitHub presence
 - 📍 Based in Pakistan
 - 📫 Reach me at **saqibjutt4544@gmail.com**
-- 💼 Connect on [LinkedIn](https://linkedin.com/in/your-linkedin)
+- 💼 Connect on [LinkedIn](www.linkedin.com/in/saqib-latif-aziz-cs)
 
 ---
 
